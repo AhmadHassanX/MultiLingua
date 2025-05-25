@@ -1,8 +1,5 @@
-# MultiLingua  is a simple desktop app that translates text between 20+ languages with automatic language detection and speech playback.
-
-
-
-**MultiLingua Translator** is a modern, desktop-based language translation tool built with Python. It leverages Google Translate and Text-to-Speech (TTS) technologies to provide accurate language translation, voice playback, and multilingual support—all within a clean, user-friendly interface.
+# MultiLingua 
+MultiLingua Translator is a modern, desktop-based language translation tool built with Python. It leverages Google Translate and Text-to-Speech (TTS) technologies to provide accurate language translation, voice playback, and multilingual support—all within a clean, user-friendly interface.
 
 
 ##  Key Features
